@@ -1,0 +1,52 @@
+on:
+  schedule:
+    - cron: "30 22 * * 1-5"
+
+jobs:
+  create-output:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      RENV_PATHS_ROOT: ~/.local/share/renv
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: r-lib/actions/setup-r@master
+        with:
+          r-version: 4.0.2
+
+      - run: sudo apt-get install -y --no-install-recommends libcurl4-openssl-dev
+      
+      - name: Install renv
+        shell: Rscript {0}
+        run: |
+          install.packages("renv")
+      
+      - name: Cache packages
+        uses: actions/cache@v1
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-
+      
+      - name: Restore packages
+        shell: Rscript {0}
+        run: |
+          renv::restore()
+      
+      - name: Create output
+        run: |
+          source("R/get_close_price.R")
+        shell: Rscript {0} 
+        
+      - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add --all
+          git commit -am "add close price"
+          git push 
+      
