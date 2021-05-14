@@ -1,8 +1,8 @@
-option,initial_price
-SLV May 21 25.0 Call,0.64
-AAPL May 21 130.0 Call,0.51
-BNGO May 21 7.0 Call,0.1
-AMC May 21 15.0 Call,1.5
-IWM May 21 207.0 Put,0.62
-QQQ May 21 305.0 Put,0.76
-TSLA May 21 645.0 Put,67.8
+option,initial_price,close_price,gain_loss
+SLV May 21 25.0 Call,0.64,0.65,0.01
+AAPL May 21 130.0 Call,0.51,0.63,0.12
+BNGO May 21 7.0 Call,0.1,0.12,0.02
+AMC May 21 15.0 Call,1.5,0.84,-0.66
+IWM May 21 207.0 Put,0.62,0.53,-0.09
+QQQ May 21 305.0 Put,0.76,0.44,-0.32
+TSLA May 21 645.0 Put,67.8,57.25,-10.55
