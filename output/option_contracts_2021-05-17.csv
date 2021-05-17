@@ -1,5 +1,5 @@
-option,initial_price
-UWMC May 21 9.0 Call,0.2
-T May 21 34.0 Call,0.21
-ABNB May 21 145.0 Call,1.38
-QQQ May 21 285.0 Put,0.1
+option,initial_price,close_price,gain_loss
+UWMC May 21 9.0 Call,0.2,0.22,0.02
+T May 21 34.0 Call,0.21,0.03,-0.18
+ABNB May 21 145.0 Call,1.38,1,-0.38
+QQQ May 21 285.0 Put,0.1,0.1,0
