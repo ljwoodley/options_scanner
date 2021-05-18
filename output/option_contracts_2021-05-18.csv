@@ -1,4 +1,4 @@
-option,initial_price
-F May 21 12.5 Call,0.14
-PLTR May 21 21.0 Call,0.51
-BIDU May 21 210.0 Call,0.39
+option,initial_price,close_price,gain_loss
+F May 21 12.5 Call,0.14,0.09,-0.05
+PLTR May 21 21.0 Call,0.51,0.62,0.11
+BIDU May 21 210.0 Call,0.39,0.12,-0.27
