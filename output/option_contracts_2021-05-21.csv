@@ -1,6 +1,6 @@
-option,initial_price
-BA May 28 240.0 Call,1.74
-AAPL May 28 130.0 Call,0.5
-F May 28 13.0 Call,0.19
-PLTR May 28 21.0 Call,0.67
-SPXW May 28 4100.0 Put,15.35
+option,initial_price,close_price,gain_loss
+BA May 28 240.0 Call,1.74,2.18,0.44
+AAPL May 28 130.0 Call,0.5,0.25,-0.25
+F May 28 13.0 Call,0.19,0.61,0.42
+PLTR May 28 21.0 Call,0.67,0.45,-0.22
+SPXW May 28 4100.0 Put,15.35,17.16,1.81
