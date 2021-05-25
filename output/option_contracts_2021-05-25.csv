@@ -1,7 +1,7 @@
-option,initial_price
-AAPL May 28 128.0 Call,0.61
-BA May 28 245.0 Call,2
-PLTR May 28 22.0 Call,0.38
-NIO May 28 37.0 Call,0.67
-AMC May 28 15.0 Call,0.94
-QQQ May 28 322.5 Put,0.4
+option,initial_price,close_price,gain_loss
+AAPL May 28 128.0 Call,0.61,0.55,-0.06
+BA May 28 245.0 Call,2,1.32,-0.68
+PLTR May 28 22.0 Call,0.38,0.2,-0.18
+NIO May 28 37.0 Call,0.67,0.45,-0.22
+AMC May 28 15.0 Call,0.94,1.9,0.96
+QQQ May 28 322.5 Put,0.4,0.3,-0.1
