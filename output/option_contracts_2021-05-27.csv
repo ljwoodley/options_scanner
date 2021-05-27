@@ -1,5 +1,5 @@
-option,initial_price
-F May 28 14.0 Call,0.95
-BA May 28 250.0 Call,1.68
-FB May 28 330.0 Call,3.56
-AMC May 28 25.0 Call,1.42
+option,initial_price,close_price,gain_loss
+F May 28 14.0 Call,0.95,0.89,-0.06
+BA May 28 250.0 Call,1.68,2.17,0.49
+FB May 28 330.0 Call,3.56,3.27,-0.29
+AMC May 28 25.0 Call,1.42,2.6,1.18
