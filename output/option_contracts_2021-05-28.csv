@@ -1,7 +1,7 @@
-option,initial_price
-F Jun 04 15.0 Call,0.23
-PLTR Jun 04 25.0 Call,0.42
-AMD Jun 04 77.0 Call,3.65
-AAPL Jun 04 126.0 Call,1.07
-AMC Jun 04 30.0 Call,8.54
-UVXY1 Jun 04 4.0 Put,0.51
+option,initial_price,close_price,gain_loss
+F Jun 04 15.0 Call,0.23,0.16,-0.07
+PLTR Jun 04 25.0 Call,0.42,0.25,-0.17
+AMD Jun 04 77.0 Call,3.65,3.55,-0.1
+AAPL Jun 04 126.0 Call,1.07,0.6,-0.47
+AMC Jun 04 30.0 Call,8.54,3.38,-5.16
+UVXY1 Jun 04 4.0 Put,0.51,0.54,0.03
