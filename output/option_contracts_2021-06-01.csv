@@ -1,5 +1,5 @@
-option,initial_price
-SNDL Jun 04 1.5 Call,0.03
-NIO Jun 04 41.0 Call,1.6
-AMD Jun 04 82.0 Call,0.81
-BA Jun 04 255.0 Call,2.24
+option,initial_price,close_price,gain_loss
+SNDL Jun 04 1.5 Call,0.03,0.02,-0.01
+NIO Jun 04 41.0 Call,1.6,1.87,0.27
+AMD Jun 04 82.0 Call,0.81,0.52,-0.29
+BA Jun 04 255.0 Call,2.24,2.9,0.66
