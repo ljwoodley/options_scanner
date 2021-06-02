@@ -1,7 +1,7 @@
-option,initial_price
-BB Jun 04 15.0 Call,0.87
-NVDA Jun 04 660.0 Call,14.15
-SKLZ Jun 04 21.0 Call,0.35
-AAPL Jun 04 126.0 Call,0.34
-AMD Jun 04 82.0 Call,0.68
-NIO Jun 04 43.0 Call,0.33
+option,initial_price,close_price,gain_loss
+BB Jun 04 15.0 Call,0.87,2.41,1.54
+NVDA Jun 04 660.0 Call,14.15,13.93,-0.22
+SKLZ Jun 04 21.0 Call,0.35,1.45,1.1
+AAPL Jun 04 126.0 Call,0.34,0.37,0.03
+AMD Jun 04 82.0 Call,0.68,0.78,0.1
+NIO Jun 04 43.0 Call,0.33,0.35,0.02
