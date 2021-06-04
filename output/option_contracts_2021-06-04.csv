@@ -1,0 +1,8 @@
+option,initial_price
+SNDL Jun 11 1.5 Call,0.1
+F Jun 11 15.0 Call,1.12
+AAPL Jun 11 125.0 Call,1.53
+SNAP Jun 11 56.0 Put,0.24
+SPXW Jun 11 3725.0 Put,0.37
+TSLA Jun 11 450.0 Put,1.28
+IWM Jun 11 221.0 Put,0.91
