@@ -1,6 +1,6 @@
-option,initial_price
-AAPL Jun 11 128.0 Call,0.84
-FB Jun 11 340.0 Call,1.51
-PLTR Jun 11 25.0 Call,0.48
-NIO Jun 11 45.0 Call,0.87
-F Jun 11 16.0 Call,0.18
+option,initial_price,close_price,gain_loss
+AAPL Jun 11 128.0 Call,0.84,0.51,-0.33
+FB Jun 11 340.0 Call,1.51,1.05,-0.46
+PLTR Jun 11 25.0 Call,0.48,0.27,-0.21
+NIO Jun 11 45.0 Call,0.87,0.5,-0.37
+F Jun 11 16.0 Call,0.18,0.16,-0.02
