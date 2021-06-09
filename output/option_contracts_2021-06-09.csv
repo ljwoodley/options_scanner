@@ -1,7 +1,7 @@
-option,initial_price
-AAPL Jun 11 127.0 Call,0.93
-FB Jun 11 335.0 Call,2.4
-NIO Jun 11 45.0 Call,0.53
-BB Jun 11 20.0 Call,0.32
-BAC Jun 11 43.0 Put,0.67
-QQQ Jun 11 337.0 Put,1.72
+option,initial_price,close_price,gain_loss
+AAPL Jun 11 127.0 Call,0.93,0.89,-0.04
+FB Jun 11 335.0 Call,2.4,0.88,-1.52
+NIO Jun 11 45.0 Call,0.53,0.19,-0.34
+BB Jun 11 20.0 Call,0.32,0.22,-0.1
+BAC Jun 11 43.0 Put,0.67,0.71,0.04
+QQQ Jun 11 337.0 Put,1.72,2.05,0.33
