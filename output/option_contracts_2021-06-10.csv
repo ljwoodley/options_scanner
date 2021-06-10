@@ -1,5 +1,5 @@
-option,initial_price
-AAPL Jun 11 128.0 Call,0.41
-BA Jun 11 255.0 Call,1.06
-F Jun 11 16.0 Call,0.04
-BB Jun 11 16.0 Call,0.22
+option,initial_price,close_price,gain_loss
+AAPL Jun 11 128.0 Call,0.41,0.07,-0.34
+BA Jun 11 255.0 Call,1.06,0.24,-0.82
+F Jun 11 16.0 Call,0.04,0.02,-0.02
+BB Jun 11 16.0 Call,0.22,0.12,-0.1
