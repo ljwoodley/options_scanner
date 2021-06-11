@@ -1,5 +1,5 @@
-option,initial_price
-MNMD Jun 18 5.0 Call,0.25
-MGNI Jun 18 35.0 Call,0.7
-NIO Jun 18 45.0 Call,0.93
-PGR Jun 18 92.5 Put,0.75
+option,initial_price,close_price,gain_loss
+MNMD Jun 18 5.0 Call,0.25,0.2,-0.05
+MGNI Jun 18 35.0 Call,0.7,0.52,-0.18
+NIO Jun 18 45.0 Call,0.93,1.76,0.83
+PGR Jun 18 92.5 Put,0.75,0.9,0.15
