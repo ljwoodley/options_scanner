@@ -1,7 +1,7 @@
-option,initial_price
-AAPL Jun 18 130.0 Call,0.81
-NIO Jun 18 50.0 Call,0.44
-PLTR Jun 18 26.0 Call,0.24
-SQ Jun 18 230.0 Call,4.15
-TSLA Jun 18 620.0 Call,12.94
-SPXW Jun 18 4000.0 Put,1.65
+option,initial_price,close_price,gain_loss
+AAPL Jun 18 130.0 Call,0.81,1.41,0.6
+NIO Jun 18 50.0 Call,0.44,0.28,-0.16
+PLTR Jun 18 26.0 Call,0.24,0.22,-0.02
+SQ Jun 18 230.0 Call,4.15,5.23,1.08
+TSLA Jun 18 620.0 Call,12.94,11.01,-1.93
+SPXW Jun 18 4000.0 Put,1.65,1.2,-0.45
