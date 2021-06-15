@@ -1,7 +1,7 @@
-option,initial_price
-FB Jun 18 340.0 Call,2.80
-AAPL Jun 18 130.0 Call,1.02
-PLTR Jun 18 25.0 Call,0.51
-AMC Jun 18 60.0 Call,10.77
-SPY Jun 18 420.0 Put,1.24
-VIAC Jun 18 41.0 Put,0.22
+option,initial_price,close_price,gain_loss
+FB Jun 18 340.0 Call,2.8,1.79,-1.01
+AAPL Jun 18 130.0 Call,1.02,0.87,-0.15
+PLTR Jun 18 25.0 Call,0.51,0.27,-0.24
+AMC Jun 18 60.0 Call,10.77,6,-4.77
+SPY Jun 18 420.0 Put,1.24,1.28,0.04
+VIAC Jun 18 41.0 Put,0.22,0.31,0.09
