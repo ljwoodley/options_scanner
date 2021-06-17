@@ -1,6 +1,6 @@
-option,initial_price
-AMD Jun 18 82.0 Call,1.36
-AAPL Jun 18 131.0 Call,0.98
-QQQ Jun 18 325.0 Call,17.18
-QQQ Jun 18 322.0 Call,20.15
-F Jun 18 15.5 Call,0.06
+option,initial_price,close_price,gain_loss
+AMD Jun 18 82.0 Call,1.36,2.81,1.45
+AAPL Jun 18 131.0 Call,0.98,1.03,0.05
+QQQ Jun 18 325.0 Call,17.18,21.08,3.9
+QQQ Jun 18 322.0 Call,20.15,21.89,1.74
+F Jun 18 15.5 Call,0.06,0.03,-0.03
