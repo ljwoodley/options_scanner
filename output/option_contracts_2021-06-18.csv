@@ -1,8 +1,8 @@
-option,initial_price
-AMD Jun 25 85.0 Call,1.80
-NVDA Jun 25 750.0 Call,28.25
-AAPL Jun 25 132.0 Call,1.24
-PFE Jun 25 38.5 Put,0.23
-CZR Jun 25 94.0 Put,0.52
-CZR Jun 25 99.5 Put,1.77
-IWM Jun 25 220.0 Put,1.83
+option,initial_price,close_price,gain_loss
+AMD Jun 25 85.0 Call,1.8,1.45,-0.35
+NVDA Jun 25 750.0 Call,28.25,13,-15.25
+AAPL Jun 25 132.0 Call,1.24,0.84,-0.4
+PFE Jun 25 38.5 Put,0.23,0.31,0.08
+CZR Jun 25 94.0 Put,0.52,0.65,0.13
+CZR Jun 25 99.5 Put,1.77,NA,NA
+IWM Jun 25 220.0 Put,1.83,2.24,0.41
