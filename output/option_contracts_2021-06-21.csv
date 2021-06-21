@@ -1,5 +1,5 @@
-option,initial_price
-AMD Jun 25 88.0 Call,0.2
-SNAP Jun 25 65.0 Call,0.56
-ROKU Jun 25 380.0 Call,7.82
-AMC Jun 25 70.0 Call,4
+option,initial_price,close_price,gain_loss
+AMD Jun 25 88.0 Call,0.2,0.14,-0.06
+SNAP Jun 25 65.0 Call,0.56,0.82,0.26
+ROKU Jun 25 380.0 Call,7.82,11.72,3.9
+AMC Jun 25 70.0 Call,4,2.78,-1.22
