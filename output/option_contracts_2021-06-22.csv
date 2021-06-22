@@ -1,6 +1,6 @@
-option,initial_price
-WISH Jun 25 15.0 Call,0.61
-NVDA Jun 25 750.0 Call,11.75
-CLOV Jun 25 13.0 Call,1.50
-PLUG Jun 25 32.0 Call,0.91
-BAC Jun 25 38.0 Put,0.13
+option,initial_price,close_price,gain_loss
+WISH Jun 25 15.0 Call,0.61,0.63,0.02
+NVDA Jun 25 750.0 Call,11.75,14.13,2.38
+CLOV Jun 25 13.0 Call,1.5,0.95,-0.55
+PLUG Jun 25 32.0 Call,0.91,2.42,1.51
+BAC Jun 25 38.0 Put,0.13,0.05,-0.08
