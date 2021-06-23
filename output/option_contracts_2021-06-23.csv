@@ -1,10 +1,10 @@
-option,initial_price
-TSLA Jun 25 650.0 Call,10.63
-SNDL Jun 25 1.0 Call,0.06
-AAPL Jun 25 134.0 Call,1.05
-FB Jun 25 340.0 Call,4.62
-PLTR Jun 25 27.0 Call,0.16
-XOP Jun 25 100.0 Call,0.92
-XOP Jun 25 96.0 Call,3.02
-CLOV Jun 25 15.0 Call,0.7
-NIO Jun 25 45.0 Call,1.35
+option,initial_price,close_price,gain_loss
+TSLA Jun 25 650.0 Call,10.63,12.6,1.97
+SNDL Jun 25 1.0 Call,0.06,0.05,-0.01
+AAPL Jun 25 134.0 Call,1.05,0.64,-0.41
+FB Jun 25 340.0 Call,4.62,2.72,-1.9
+PLTR Jun 25 27.0 Call,0.16,0.17,0.01
+XOP Jun 25 100.0 Call,0.92,0.47,-0.45
+XOP Jun 25 96.0 Call,3.02,3.12,0.1
+CLOV Jun 25 15.0 Call,0.7,0.62,-0.08
+NIO Jun 25 45.0 Call,1.35,1.03,-0.32
