@@ -1,7 +1,7 @@
-option,initial_price
-TSLA Jun 25 700.0 Call,4.52
-PLTR Jun 25 28.0 Call,0.04
-AAPL Jun 25 135.0 Call,0.42
-NIO Jun 25 46.0 Call,0.54
-AMD Jun 25 86.0 Call,0.75
-NVDA Jun 25 775.0 Call,5.4
+option,initial_price,close_price,gain_loss
+TSLA Jun 25 700.0 Call,4.52,2.5,-2.02
+PLTR Jun 25 28.0 Call,0.04,0.03,-0.01
+AAPL Jun 25 135.0 Call,0.42,0.1,-0.32
+NIO Jun 25 46.0 Call,0.54,0.3,-0.24
+AMD Jun 25 86.0 Call,0.75,0.62,-0.13
+NVDA Jun 25 775.0 Call,5.4,3.21,-2.19
