@@ -1,7 +1,7 @@
-option,initial_price
-AMD Jul 02 95.0 Call,0.76
-NIO Jul 02 52.0 Call,2
-AAPL Jul 02 137.0 Call,0.71
-TSLA Jul 02 680.0 Call,16.08
-PLUG Jul 02 36.0 Call,0.4
-BBBY Jul 02 40.0 Call,1.07
+option,initial_price,close_price,gain_loss
+AMD Jul 02 95.0 Call,0.76,0.8,0.04
+NIO Jul 02 52.0 Call,2,1.92,-0.08
+AAPL Jul 02 137.0 Call,0.71,0.74,0.03
+TSLA Jul 02 680.0 Call,16.08,12.54,-3.54
+PLUG Jul 02 36.0 Call,0.4,0.29,-0.11
+BBBY Jul 02 40.0 Call,1.07,0.22,-0.85
