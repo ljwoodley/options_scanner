@@ -1,4 +1,4 @@
-option,initial_price
-AAPL Jul 09 140.0 Call,1.18
-AMD Jul 09 95.0 Call,1.39
-SPXW Jul 09 3900.0 Put,0.3
+option,initial_price,close_price,gain_loss
+AAPL Jul 09 140.0 Call,1.18,1.18,0
+AMD Jul 09 95.0 Call,1.39,1.39,0
+SPXW Jul 09 3900.0 Put,0.3,0.3,0
