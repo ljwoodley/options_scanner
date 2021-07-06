@@ -1,7 +1,7 @@
-option,initial_price
-IWM Jul 09 231.0 Call,0.31
-AAPL Jul 09 145.0 Call,0.5
-FB Jul 09 360.0 Call,1.51
-AMD Jul 09 95.0 Call,1.13
-NVDA Jul 09 850.0 Call,5.22
-NIO Jul 09 49.0 Call,1.74
+option,initial_price,close_price,gain_loss
+IWM Jul 09 231.0 Call,0.31,0.22,-0.09
+AAPL Jul 09 145.0 Call,0.5,0.4,-0.1
+FB Jul 09 360.0 Call,1.51,0.99,-0.52
+AMD Jul 09 95.0 Call,1.13,1.05,-0.08
+NVDA Jul 09 850.0 Call,5.22,3.83,-1.39
+NIO Jul 09 49.0 Call,1.74,2.14,0.4
