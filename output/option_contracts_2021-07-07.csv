@@ -1,5 +1,5 @@
-option,initial_price
-AAPL Jul 09 145.0 Call,0.77
-FB Jul 09 360.0 Call,1.44
-MSFT Jul 09 280.0 Call,1.91
-AMZN Jul 09 3800.0 Call,11.25
+option,initial_price,close_price,gain_loss
+AAPL Jul 09 145.0 Call,0.77,0.92,0.15
+FB Jul 09 360.0 Call,1.44,0.36,-1.08
+MSFT Jul 09 280.0 Call,1.91,1.48,-0.43
+AMZN Jul 09 3800.0 Call,11.25,4.97,-6.28
