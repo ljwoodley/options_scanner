@@ -1,6 +1,6 @@
-option,initial_price
-AAPL Jul 16 150.0 Call,0.3
-TSLA Jul 16 700.0 Call,8
-NIO Jul 16 46.0 Call,0.89
-NVDA Jul 16 820.0 Call,10.82
-AMD Jul 16 92.0 Call,0.78
+option,initial_price,close_price,gain_loss
+AAPL Jul 16 150.0 Call,0.3,0.13,-0.17
+TSLA Jul 16 700.0 Call,8,8.55,0.55
+NIO Jul 16 46.0 Call,0.89,1.39,0.5
+NVDA Jul 16 820.0 Call,10.82,13.02,2.2
+AMD Jul 16 92.0 Call,0.78,0.82,0.04
