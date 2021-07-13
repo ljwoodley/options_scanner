@@ -1,5 +1,5 @@
-option,initial_price
-AAPL Jul 16 146.0 Call,1.73
-DIS Jul 16 185.0 Call,0.95
-BABA Jul 16 210.0 Call,3.35
-EEM Jul 16 54.0 Put,0.41
+option,initial_price,close_price,gain_loss
+AAPL Jul 16 146.0 Call,1.73,1.02,-0.71
+DIS Jul 16 185.0 Call,0.95,1.11,0.16
+BABA Jul 16 210.0 Call,3.35,2.12,-1.23
+EEM Jul 16 54.0 Put,0.41,0.45,0.04
