@@ -1,5 +1,5 @@
-option,initial_price
-NVDA Jul 23 750.0 Call,17.42
-SPXW Jul 23 3700.0 Put,1.1
-IWM Jul 23 210.0 Put,3.41
-RUTW Jul 23 2090.0 Put,24.07
+option,initial_price,close_price,gain_loss
+NVDA Jul 23 750.0 Call,17.42,19.4,1.98
+SPXW Jul 23 3700.0 Put,1.1,0.7,-0.4
+IWM Jul 23 210.0 Put,3.41,2.43,-0.98
+RUTW Jul 23 2090.0 Put,24.07,19.98,-4.09
