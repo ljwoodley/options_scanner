@@ -1,6 +1,6 @@
-option,initial_price
-AAPL Jul 23 145.0 Call,1.34
-IBM Jul 23 145.0 Call,1.32
-NIO Jul 23 42.0 Call,1.57
-AMC Jul 23 40.0 Call,1.20
-MRNA Jul 23 350.0 Call,6.73
+option,initial_price,close_price,gain_loss
+AAPL Jul 23 145.0 Call,1.34,2.1,0.76
+IBM Jul 23 145.0 Call,1.32,0.13,-1.19
+NIO Jul 23 42.0 Call,1.57,2.05,0.48
+AMC Jul 23 40.0 Call,1.2,4.7,3.5
+MRNA Jul 23 350.0 Call,6.73,1.4,-5.33
