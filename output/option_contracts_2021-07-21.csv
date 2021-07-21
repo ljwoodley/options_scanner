@@ -1,6 +1,6 @@
-option,initial_price
-AMC Jul 23 45.0 Call,3.53
-AAPL Jul 23 146.0 Call,0.95
-NVDA Jul 23 200.0 Call,0.65
-BA Jul 23 225.0 Call,1.85
-GPS Jul 23 27.5 Put,0.03
+option,initial_price,close_price,gain_loss
+AMC Jul 23 45.0 Call,3.53,0.85,-2.68
+AAPL Jul 23 146.0 Call,0.95,0.79,-0.16
+NVDA Jul 23 200.0 Call,0.65,0.6,-0.05
+BA Jul 23 225.0 Call,1.85,1.1,-0.75
+GPS Jul 23 27.5 Put,0.03,0.04,0.01
