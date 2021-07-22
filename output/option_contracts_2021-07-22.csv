@@ -1,5 +1,5 @@
-option,initial_price
-AAPL Jul 23 147.0 Call,0.99
-NVDA Jul 23 200.0 Call,0.75
-MSFT Jul 23 285.0 Call,1.47
-AMD Jul 23 91.0 Call,0.41
+option,initial_price,close_price,gain_loss
+AAPL Jul 23 147.0 Call,0.99,0.6,-0.39
+NVDA Jul 23 200.0 Call,0.75,0.53,-0.22
+MSFT Jul 23 285.0 Call,1.47,1.71,0.24
+AMD Jul 23 91.0 Call,0.41,0.99,0.58
