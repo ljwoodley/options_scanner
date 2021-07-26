@@ -1,6 +1,6 @@
-option,initial_price
-AAPL Jul 30 155.0 Call,1
-SNAP Jul 30 76.0 Call,2.86
-SPCE Jul 30 31.0 Call,1.49
-IWM Jul 30 225.0 Call,1.28
-AMC Jul 30 48.0 Call,0.78
+option,initial_price,close_price,gain_loss
+AAPL Jul 30 155.0 Call,1,0.91,-0.09
+SNAP Jul 30 76.0 Call,2.86,2.12,-0.74
+SPCE Jul 30 31.0 Call,1.49,1.07,-0.42
+IWM Jul 30 225.0 Call,1.28,0.57,-0.71
+AMC Jul 30 48.0 Call,0.78,0.75,-0.03
